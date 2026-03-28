@@ -2,7 +2,7 @@
 
 This repository contains the CNN implementation for the multi-class classification of B-Cell Acute Lymphoblastic Leukemia (B-ALL) subtypes. This work is part of the research paper: **"Comparison between CNN, YOLOv11, and vision transformers deep learning architecture for B-ALL detection"** presented at the 10th International Conference on Computer Science and Computational Intelligence (ICCSCI) 2025.
 
-[cite_start]While the paper presents a rigorous benchmark across three deep learning architectures (CNN, YOLOv11, ViT), **this specific repository focuses exclusively on the CNN architecture**, which achieved the highest overall performance in the study.
+While the paper presents a rigorous benchmark across three deep learning architectures (CNN, YOLOv11, ViT), **this specific repository focuses exclusively on the CNN architecture**, which achieved the highest overall performance in the study.
 
 ## 📊 Performance Highlights
 Our custom CNN model demonstrated superior classification performance and stability compared to YOLOv11 and ViT, yielding the following results on the test dataset:
